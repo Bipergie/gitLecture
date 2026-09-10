@@ -1,9 +1,19 @@
-# Description
-What is the issue ?
+---
+name: Issue report
+about: Create a new issue
+title: ''
+labels: ''
+assignees: ''
+---
 
-What services it impact ?
+## Description
 
-What the severity level ?
+Décris l'issue.
 
-# Expected behavior
+## Contexte
 
+Ajoute les informations nécessaires.
+
+## Résultat attendu
+
+Décris le comportement attendu.
